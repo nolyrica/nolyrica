@@ -21,37 +21,44 @@
 <hr>
 
 <p align="left">
-  <!-- 1. GIF -->
-  <img align="right" src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="300" style="border-radius: 10px;" />
   • Let me introduce myself, I'm Cartel. I am a versatile developer with a deep passion for every aspect of this field. Every day, I get inspired by new ideas and projects to improve myself even further.
   <br><br>
   • In my free time, I love watching anime, collecting manga, and tinkering with new technologies. (๑˃̵ᴗ˂̵)و
 </p>
 
-<br clear="all"><br>
+<div align="center">
+  <!-- 1. GIF -->
+  <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="400" style="border-radius: 10px;" />
+</div>
+
+<br><br>
 
 <h3 align="left">Links</h3>
 <hr>
 
 <p align="left">
-  <!-- 2. GIF -->
-  <img align="right" src="https://media.giphy.com/media/c9rajhYWOqFy0A5bL4/giphy.gif" width="300" style="border-radius: 10px;" />
-  <br>
   • <a href="#">You Should Drop By</a>
   <br><br>
   • <a href="#">Website</a>
 </p>
 
-<br clear="all"><br>
+<div align="center">
+  <!-- 2. GIF -->
+  <img src="https://media.giphy.com/media/c9rajhYWOqFy0A5bL4/giphy.gif" width="400" style="border-radius: 10px;" />
+</div>
+
+<br><br>
 
 <h3 align="left">Tech Stack</h3>
 <hr>
 
 <p align="left">
-  <!-- 3. GIF -->
-  <img align="right" src="https://media.giphy.com/media/wormydf1AIOFWvK3n3/giphy.gif" width="300" style="border-radius: 10px;" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb&perline=4" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb&perline=8" />
 </p>
 
-<br clear="all">
+<div align="center">
+  <!-- 3. GIF -->
+  <img src="https://media.giphy.com/media/wormydf1AIOFWvK3n3/giphy.gif" width="400" style="border-radius: 10px;" />
+</div>
+
+<br>
