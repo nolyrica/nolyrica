@@ -6,19 +6,19 @@
 <br><br>
 
 <h2 align="left">
-  Hi there, I'm
+  Merhaba, ben Matessa
   <img align="right" src="https://komarev.com/ghpvc/?username=nolyrica&color=191717&style=flat-square" />
 </h2>
 
 <br>
 
-<h3 align="left">About Me</h3>
+<h3 align="left">Hakkımda</h3>
 <hr>
 
 <p align="left">
-  • Let me introduce myself, I'm Matessa. I am a versatile developer with a deep passion for every aspect of this field. Every day, I get inspired by new ideas and projects to improve myself even further.
+  • Kendimi tanıtayım, ben Matessa. Bu alanın her yönüne derin bir tutku duyan çok yönlü bir geliştiriciyim. Her gün kendimi daha da geliştirmek için yeni fikirler ve projelerden ilham alıyorum.
   <br><br>
-  • In my free time, I love watching anime, collecting manga, and tinkering with new technologies. (๑˃̵ᴗ˂̵)و
+  • Boş zamanlarımda anime izlemeyi, manga koleksiyonu yapmayı ve yeni teknolojilerle uğraşmayı seviyorum. (๑˃̵ᴗ˂̵)و
 </p>
 
 <div align="center">
