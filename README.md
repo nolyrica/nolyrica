@@ -7,12 +7,12 @@
 
 <h2 align="left">
   Hi there, I'm
-  <img align="right" src="https://komarev.com/ghpvc/?username=cartellhub&color=191717&style=flat-square" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=nolyrica&color=191717&style=flat-square" />
 </h2>
 
 <p align="left">
-  <a href="https://discord.com/users/cartellhub." target="_blank"><img src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/cartellhub" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://discord.com/users/matessa" target="_blank"><img src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/nolyrica" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <br>
@@ -21,7 +21,7 @@
 <hr>
 
 <p align="left">
-  • Let me introduce myself, I'm Cartel. I am a versatile developer with a deep passion for every aspect of this field. Every day, I get inspired by new ideas and projects to improve myself even further.
+  • Let me introduce myself, I'm Matessa. I am a versatile developer with a deep passion for every aspect of this field. Every day, I get inspired by new ideas and projects to improve myself even further.
   <br><br>
   • In my free time, I love watching anime, collecting manga, and tinkering with new technologies. (๑˃̵ᴗ˂̵)و
 </p>
@@ -60,5 +60,3 @@
   <!-- 3. GIF -->
   <img src="https://media.giphy.com/media/wormydf1AIOFWvK3n3/giphy.gif" width="400" style="border-radius: 10px;" />
 </div>
-
-<br>
