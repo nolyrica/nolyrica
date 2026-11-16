@@ -11,7 +11,7 @@
 </h2>
 
 <p align="left">
-  <a href="https://discord.com/users/huzunlerimsin" target="_blank"><img src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/cartellhub." target="_blank"><img src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/nolyrica" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
@@ -36,4 +36,27 @@
 <h3 align="left">Links</h3>
 <hr>
 
-<p
+<p align="left">
+  • <a href="#">You Should Drop By</a>
+  <br><br>
+  • <a href="#">Website</a>
+</p>
+
+<div align="center">
+  <!-- 2. GIF -->
+  <img src="https://media.giphy.com/media/c9rajhYWOqFy0A5bL4/giphy.gif" width="400" style="border-radius: 10px;" />
+</div>
+
+<br><br>
+
+<h3 align="left">Tech Stack</h3>
+<hr>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb&perline=8" />
+</p>
+
+<div align="center">
+  <!-- 3. GIF -->
+  <img src="https://media.giphy.com/media/wormydf1AIOFWvK3n3/giphy.gif" width="400" style="border-radius: 10px;" />
+</div>
