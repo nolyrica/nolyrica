@@ -10,11 +10,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=nolyrica&color=191717&style=flat-square" />
 </h2>
 
-<p align="left">
-  <a href="https://discord.com/users/cartellhub." target="_blank"><img src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/nolyrica" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
 <br>
 
 <h3 align="left">About Me</h3>
